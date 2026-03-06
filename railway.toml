@@ -1,0 +1,2 @@
+[deploy]
+startCommand = "bare-server-node"
